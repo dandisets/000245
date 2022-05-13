@@ -30,19 +30,39 @@ assetsSummary:
   variableMeasured:
   - CurrentClampSeries
   - CurrentClampStimulusSeries
-citation: Zhang, Guang-Wei (2022) Guangwei_22Q1_Ephys (Version draft) [Data set].
-  DANDI archive. https://dandiarchive.org/dandiset/000245/draft
+citation: Zhang, Guang-Wei; Tao, Can (2022) Electrophysiological properties of adult
+  mouse spinal cord neurons - 22Q1_Ephys_DANDI (Version draft) [Data set]. DANDI archive.
+  https://dandiarchive.org/dandiset/000245/draft
 contributor:
 - affiliation: []
   email: guangwei.zhang@med.usc.edu
+  identifier: 0000-0002-3228-1981
   includeInCitation: true
   name: Zhang, Guang-Wei
   roleName:
   - dcite:Author
   - dcite:ContactPerson
   schemaKey: Person
+- affiliation: []
+  identifier: 0000-0002-3914-1877
+  includeInCitation: true
+  name: Tao, Can
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- awardNumber: 1U01MH116990-01
+  contactPoint: []
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: National Institute of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.nih.gov/
 dateCreated: '2022-05-10T10:26:55.253343+00:00'
-description: Guangwei 22Q1_Ephys dataset, intracellular recordings
+description: 'Whole-cell patch clamp recording of specific cell types in the adult
+  mouse spinal cord. Neurons are either input defined, output defined or expressing
+  specific molecular markers. '
 ethicsApproval: []
 id: DANDI:000245/draft
 identifier: DANDI:000245
@@ -51,7 +71,7 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000245/versions/draft/assets/
-name: Guangwei_22Q1_Ephys
+name: Electrophysiological properties of adult mouse spinal cord neurons - 22Q1_Ephys_DANDI
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
